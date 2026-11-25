@@ -658,3 +658,4 @@ Now Claude can answer questions about writing MCP servers and how they work
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=punkpeye/awesome-mcp-servers&type=Date" />
  </picture>
 </a>
+- [AstraNL](https://astranl.com/mcp) - Dutch contractor check before paying an advance. Construction facts. Never holds third-party funds.
